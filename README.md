@@ -1,2 +1,2 @@
 # Text_Algorithms
-Algorithms for proccesing text 
+Code of the library that contains the algorithms of the book 'Text Algorithms' by Maxime Crochemore and Wojciech Rytter first publiced in 1994.The purpose of this library is to create the algorithms that the book is describing as pseudo-code in his biggest part and a small part in Pascal Language using Python Language. Each function but also each algorithm separately has documentation and annotation so that even someone with little or no programming experience can understand how the algorithms work.
